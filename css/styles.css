@@ -1,0 +1,10 @@
+#card-definition{  /* Used to show initial card definition */
+  display: none;
+}
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable:hover {
+  text-decoration: underline;
+}
