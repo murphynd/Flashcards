@@ -1,1 +1,1 @@
-simple effects 
+Make a webpage that is a flashcard site for learning JS & jQuery. On your site, a user should be able to click on a term or concept to see the definition appear. When they click on the definition, the original term should appear again.
