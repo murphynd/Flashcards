@@ -1,10 +1,21 @@
 #card-definition{  /* Used to show initial card definition */
   display: none;
 }
-.clickable {
+#card-defintion-two{
+  display:none
+}
+.toggleOne {
   cursor: pointer;
   color: #0088cc;
 }
-.clickable:hover {
+.toggleOne:hover {
   text-decoration: underline;
 }
+.toggleTwo {
+  cursor: pointer;
+  color: purple;
+}
+.toggleTwo:hover {
+  text-decoration: underline;
+}
+
