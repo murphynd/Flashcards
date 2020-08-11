@@ -1,8 +1,8 @@
 #card-definition{  /* Used to show initial card definition */
   display: none;
 }
-#card-defintion-two{
-  display:none
+#card-definition-two{
+  display: none;
 }
 .toggleOne {
   cursor: pointer;
